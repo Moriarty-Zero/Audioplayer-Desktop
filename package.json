@@ -1,0 +1,15 @@
+{
+  "name": "audioplayer-desktop",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksii",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "electron": "^45.2.3"
+  }
+}
